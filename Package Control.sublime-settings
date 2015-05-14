@@ -1,0 +1,38 @@
+{
+	"auto_upgrade_last_run": null,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Clipboard History",
+		"CodeFormatter",
+		"DocBlockr",
+		"DuplicateSelections",
+		"EncodingHelper",
+		"FileDiffs",
+		"Flow",
+		"GotoDocumentation",
+		"Jade",
+		"jQuery",
+		"JsFormat",
+		"JSHint",
+		"JSX",
+		"Laravel 4 Facades",
+		"Laravel Blade Highlighter",
+		"LightPaper Markdown",
+		"Markdown Extended",
+		"MarkdownEditing",
+		"Package Control",
+		"PhpBeautifier",
+		"Phpcs",
+		"Pman",
+		"ReactJS",
+		"SideBarEnhancements",
+		"SqlBeautifier",
+		"Theme - Soda",
+		"TrailingSpaces",
+		"Yii Framework Snippets"
+	]
+}

@@ -1,0 +1,27 @@
+[
+	{ "keys": ["f1"], "command": "goto_documentation" },
+	{ "keys": ["ctrl+shift+v"], "command": "clipboard_display" },
+	{ "keys": ["ctrl+d"], "command": "run_macro_file", "args": {"file": "Packages/Default/Delete line.sublime-macro"}},
+
+	{ "keys": ["alt+."], "command": "" },
+	{ "keys": ["super+alt+."], "command": "" },
+
+	{ "keys": ["ctrl+q"], "command": "toggle_comment", "args": { "block": false } },
+	{ "keys": ["ctrl+shift+q"], "command": "toggle_comment", "args": { "block": true } },
+
+	{ "keys": ["ctrl+shift+r"], "command": "find_all_under" },
+
+	{ "keys": [";"], "command": "run_macro_file", "args": {"file": "Packages/Maxime/point-virgule.sublime-macro"} },
+
+	{ "keys": ["ctrl+;"], "command": "insert", "args": {"characters": ";"} },
+
+	{ "keys": ["ctrl+space"], "command": "auto_complete" },
+
+	{ "keys": ["ctrl+w"], "command": "close_file" },
+
+	{ "keys": ["f8"], "command": "permute_lines", "args": {"operation": "unique"} },
+
+	{ "keys": ["ctrl+."], "command": "find_under_expand" },
+	{ "keys": ["ctrl+,"], "command": "find_under_expand_skip" }
+]
+
